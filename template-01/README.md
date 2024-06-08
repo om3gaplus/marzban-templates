@@ -6,7 +6,7 @@
 
 # Usage
 
-First you need to copy [html file](https://github.com/MuhammadAshouri/marzban-templates/blob/master/template-01/index.html) to your sever. You can do it by this:
+First you need to copy [html file](https://raw.githubusercontent.com/om3gaplus/marzban-templates/master/template-01/index.html) to your sever. You can do it by this:
 
 ```bash
 cd /opt/marzban
